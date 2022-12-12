@@ -21,16 +21,17 @@ Tuesday 8 November, 2022 – 2.00-3.30pm (Online)
 
 – We will start with a quick refresher on graph vocabulary.\
 – Then we will present the Graph Network framework, which generalises many propositions of Graph Neural Networks.\
-– Finally, the practice session will focus on classifying graphs.\
+– Finally, the practice session will focus on classifying graphs.
 
 
 **📑 Papers**
 
-– Main paper: Relational inductive biases, deep learning, and graph networks by Battaglia et al. (2018)
+– Main paper: Relational inductive biases, deep learning, and graph networks by Battaglia et al. (2018)\
 – Supporting reference: A Practical Tutorial on Graph Neural Networks by Ward et al. (2020) 
 
-Notebook/simulations
-– Collab weblink
+**🐍Notebook/simulations**
+
+– see above
 
 
 ### Session 2/2 – Representation Learning on Large Graphs
@@ -55,4 +56,8 @@ During the practical session, you will learn to classify articles of Wikipedia u
 **📑 Papers**
 
 – Inductive Representation Learning on Large Graphs by W.L. Hamilton, R. Ying, and J. Leskovec (2017)
+
+**🐍Notebook/simulations**
+
+– see above
 
