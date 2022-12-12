@@ -1,4 +1,4 @@
-# Hi! PARIS Reading groups GNN
+# Hi! PARIS Reading groups
 
 The Hi! PARIS reading groups propose to study a topic using scientific articles on a theoretical and a practical point of view. The reading groups are opportunities of interaction between our corporate donors and our affiliates academic teams around selected topics of interest.
 
