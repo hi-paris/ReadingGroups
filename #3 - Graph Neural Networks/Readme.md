@@ -29,7 +29,7 @@ Tuesday 8 November, 2022 – 2.00-3.30pm (Online)
 – Main paper: Relational inductive biases, deep learning, and graph networks by Battaglia et al. (2018)\
 – Supporting reference: A Practical Tutorial on Graph Neural Networks by Ward et al. (2020) 
 
-**🐍Notebook/simulations**
+**🐍 Notebook/simulations**
 
 – see above
 
@@ -57,7 +57,7 @@ During the practical session, you will learn to classify articles of Wikipedia u
 
 – Inductive Representation Learning on Large Graphs by W.L. Hamilton, R. Ying, and J. Leskovec (2017)
 
-**🐍Notebook/simulations**
+**🐍 Notebook/simulations**
 
 – see above
 
