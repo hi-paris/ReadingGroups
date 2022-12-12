@@ -1,11 +1,12 @@
-Edition 3 - Graph Neural Networks
+## Edition 3 - Graph Neural Networks
+
 For the third edition of the Hi! PARIS Reading groups, we propose an introduction to Graph Neural Networks and present .
 
 What is the common denominator between social networks with users following each other and molecules made of atoms connected through chemical bounds? Both can be understood as graphs. Graph theory has long been studying this universal conceptualisation of relationships between set elements. Now, can deep learning successes, for instance on images and text, be transferred to data attached to general graphs? The term of Graph Neural Networks (GNNs) has rapidly emerged in the literature and now covers a full zoology of such models. The reading group sessions will study two of these papers.
 
 The reading group will present some recent models and their application to the classification of molecules (session 1) and Wikipedia articles (session 2). 
 
-Session 1/2 – Introduction to Graph Neural Networks and a First Application: Graph Classification
+### Session 1/2 – Introduction to Graph Neural Networks and a First Application: Graph Classification
 Tuesday 8 November, 2022 – 2.00-3.30pm (Online)
 Speakers
 – Marylou Gabrié, Hi! PARIS Chair @École polytechnique
@@ -23,13 +24,13 @@ Papers
 Notebook/simulations
 – Collab weblink
 
-Register now! for Nov, 8
-Session 2/2 – Representation Learning on Large Graphs
+
+### Session 2/2 – Representation Learning on Large Graphs
 Tuesday 13 December, 2022 – 2.00-3.30pm (Online)
 Speakers
-– Thomas Bonald, Telecom Paris
-– Simon Delarue, Hi! PARIS Phd @Télécom Paris
-– Tiphaine Viard, Telecom Paris
+**– Thomas Bonald, Telecom Paris**
+**– Simon Delarue, Hi! PARIS Phd @Télécom Paris**
+**– Tiphaine Viard, Telecom Paris**
 
 Program
 The focus of this session will be on GraphSAGE, a Graph Neural Network (GNN) suitable for learning representations of large graphs. 
