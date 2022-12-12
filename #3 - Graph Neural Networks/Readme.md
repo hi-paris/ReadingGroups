@@ -8,11 +8,11 @@ The reading group will present some recent models and their application to the c
 
 ### Session 1/2 – Introduction to Graph Neural Networks and a First Application: Graph Classification
 Tuesday 8 November, 2022 – 2.00-3.30pm (Online)
-📣 Speakers
 
-**– Marylou Gabrié, Hi! PARIS Chair @École polytechnique**
+**📣 Speakers**
 
-**– Gaëtan Brison, Hi! PARIS Engineering Team**
+*Marylou Gabrié, Hi! PARIS Chair @École polytechnique
+*Gaëtan Brison, Hi! PARIS Engineering Team
 
 📚 Program
 – We will start with a quick refresher on graph vocabulary.
