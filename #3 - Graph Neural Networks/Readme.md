@@ -12,6 +12,7 @@ Tuesday 8 November, 2022 – 2.00-3.30pm (Online)
 **📣 Speakers**
 
 *Marylou Gabrié, Hi! PARIS Chair @École polytechnique
+
 *Gaëtan Brison, Hi! PARIS Engineering Team
 
 📚 Program
