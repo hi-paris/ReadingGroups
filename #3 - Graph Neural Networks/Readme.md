@@ -28,8 +28,11 @@ Notebook/simulations
 ### Session 2/2 – Representation Learning on Large Graphs
 Tuesday 13 December, 2022 – 2.00-3.30pm (Online)
 Speakers
+
 **– Thomas Bonald, Telecom Paris**
+
 **– Simon Delarue, Hi! PARIS Phd @Télécom Paris**
+
 **– Tiphaine Viard, Telecom Paris**
 
 Program
