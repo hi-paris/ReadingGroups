@@ -19,9 +19,9 @@ Tuesday 8 November, 2022 – 2.00-3.30pm (Online)
 
 **📚 Program**
 
-– We will start with a quick refresher on graph vocabulary.
-– Then we will present the Graph Network framework, which generalises many propositions of Graph Neural Networks.
-– Finally, the practice session will focus on classifying graphs.
+– We will start with a quick refresher on graph vocabulary.\
+– Then we will present the Graph Network framework, which generalises many propositions of Graph Neural Networks.\
+– Finally, the practice session will focus on classifying graphs.\
 
 
 **📑 Papers**
