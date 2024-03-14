@@ -27,7 +27,7 @@ Tuesday 19 October, 2021 – 2.00-3.30pm (Online)
 
 – Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., & Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30. 31st Conference on Neural Information Processing Systems. CA, USA: Long Beach.\
 – Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding\ 
-– Li, S.; Jin, X.; Xuan, Y.; Zhou, X.; Chen, W.; Wang, Y.-X.; and Yan, X. 2019. Enhancing the locality and breaking the memory bottleneck of transformer on time series forecasting. Advances in Neural Information Processing Systems, 32\
+– Li, S.; Jin, X.; Xuan, Y.; Zhou, X.; Chen, W.; Wang, Y.-X.; and Yan, X. 2019. Enhancing the locality and breaking the memory bottleneck of transformer on time series forecasting. Advances in Neural Information Processing Systems, 32
 
 
 **🐍 Presentatin/Notebook/simulations**
@@ -54,7 +54,7 @@ Tuesday 30 November, 2021 – 2.00-3.30pm (Online)
 **📑 Papers**
 
 – Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., & Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30. 31st Conference on Neural Information Processing Systems. CA, USA: Long Beach.\
-– Omer Levy, Kenton Lee, Nicholas FitzGerald, and Luke Zettlemoyer. Long short-term memory as a dynamically computed element-wise weighted sum. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 732–739, 2018.\  
+– Omer Levy, Kenton Lee, Nicholas FitzGerald, and Luke Zettlemoyer. Long short-term memory as a dynamically computed element-wise weighted sum. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 732–739, 2018.  
 
 
 **🐍 Presentatin/Notebook/simulations**
@@ -75,7 +75,7 @@ Tuesday 11 January, 2022 – 2.00-3.30pm (Online)
 
 **📑 Papers**
 
-– Alice Martin, Charles Ollion, Florian Strub, Sylvain Le Corff, and Olivier Pietquin. The monte carlo transformer: a stochastic self-attention model for sequence prediction. CoRR, abs/2007.08620, 2020\
+– Alice Martin, Charles Ollion, Florian Strub, Sylvain Le Corff, and Olivier Pietquin. The monte carlo transformer: a stochastic self-attention model for sequence prediction. CoRR, abs/2007.08620, 2020
 
 
 **🐍 Presentatin/Notebook/simulations**
