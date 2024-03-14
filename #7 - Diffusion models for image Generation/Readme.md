@@ -4,8 +4,8 @@
 
 This reading group is devoted to recent diffusion models for image generation. These generative models are based on latent random variables and aim at sampling from highly complex probabilities distributions via a sequence of distributions which transform noise into the distribution of the data. They have many applications in image processing such as image denoising, inpainting, super resolution or image generation.  Through three recent papers, we will review the principle of these generative models, how to train them and some challenges related to particular applications.
 
-The edition consists on 4 sessions.
-The reading group will present some recent models and their application to the classification of molecules (session 1) and Wikipedia articles (session 2). 
+The edition consists of 4 sessions.
+The reading group will present some recent models and their application to the generation of Images 
 
 ### Session 1/4 – Generative modeling by estimating gradients of the data distribution – Denoising Diffusion Implicit Models
 Tuesday 4 February, 2024 – 2.00-3.30pm (Online)
@@ -34,3 +34,17 @@ In this talk we will consider two of the first papers of what is now called Scor
 ### Session 2/4 – Score-Based Generative Modeling through Stochastic Differential Equations Zero-shot spatial layout conditioning for text-to-image diffusion models
 Tuesday 12 March, 2024 – 2.00-3.30pm (Online)
 
+
+**📣 Speakers**
+
+* Stéphane Latuilière – Marlène Careil, Télécom Paris – IP Paris 
+
+
+**📑 Papers**
+
+– Zero-shot spatial layout conditioning for text-to-image diffusion models. Guillaume Couairon, Marlène Careil, Matthieu Cord, Stéphane Lathuilière, Jakob Verbeek, June 2023, Computer Vision and Pattern Recognition Conference. 
+
+
+**🐍 Presentatin/Notebook/simulations**
+
+– see above
